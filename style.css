@@ -1,0 +1,37 @@
+html {height: 100%;}
+body {width: 800px; 
+    margin: 0 auto; 
+    padding-top:5px; 
+    height:100%}
+header {background-color: rgb(182, 223, 0);
+    color: rgb(1, 63, 1);text-align: center;
+}
+#paws {height: 30px;
+width:30px;
+display: inline-block;
+}
+#elmo {display: inline-block; margin-left: 110px;margin-top: 20px;}
+h1 {display: inline-block; text-align: center;}
+#leftnav {
+    width:125px;
+    height: 1000px;
+    vertical-align: top;
+    background-color: #f1f1f1;
+}
+p {background-color: darkkhaki;
+    width: 392px;
+    height: 686px;
+}
+footer {
+    background-color: cornsilk;
+    padding-top: 10px;
+    text-align: center;
+}
+#rightnav {
+    width:125px;
+    height: 1000px;
+    vertical-align: top;
+    background-color: #f1f1f1;
+    float: right;
+}
+#leftnav, #rightnav, #center {display: inline-block; margin: 0; padding: 0; width: 25%}

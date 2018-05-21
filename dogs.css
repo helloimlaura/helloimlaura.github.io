@@ -61,7 +61,6 @@ aside {
     width: 15%;
     text-align: center;
     vertical-align: top;
-    display: inline-block;
     min-height: 100%;
     float: right;
 }

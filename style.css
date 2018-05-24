@@ -12,8 +12,7 @@ header{
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
     margin: 5px;
-    padding: 60px;
-
+    padding: 30px 60px 30px 60px;
 }
 
 #header-links{
@@ -37,7 +36,7 @@ header{
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
     display: block;
-    margin: 30px auto 5px auto;
+    margin: 15px auto 0px auto;
 }
 
 ul li {
@@ -51,24 +50,30 @@ a:link {
 }
 
 a:visited {
-    color: darkmagenta;
+    color:darkmagenta;
 }
 
 a:hover {
-    color: lightskyblue;
+    color: darkblue;
 }
 
 a:active {
-    color: darkgreen;
+    color: lightskyblue;
+}
+
+#bio {
+    text-align: center;
+    font-weight: bold;
 }
 
 section{
     background-color: white;
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
-    padding: 60px;
+    padding: 30px 60px 60px 60px;
     width: 90%;
     margin: 5px;
+    text-align: center;
 }
 
 .section-header{
@@ -81,6 +86,10 @@ section{
     font-size:  2em;
     color: rgba(0, 0, 0, 0.7);
 
+}
+
+.program-name{
+    color: darkmagenta;
 }
 
 .section-paragraph{

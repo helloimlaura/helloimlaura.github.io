@@ -6,28 +6,28 @@ body{
 
 header{
     background-color: white;
-    width: 97%;
+    width: 90%;
     height: 15%;
     display: block;
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
-    margin: 0;
-    padding: 20px;
+    margin: 5px;
+    padding: 60px;
 
 }
 
 #header-links{
-    display: inline-block;
-    vertical-align: center;
-    margin-left: 70px;
+    display: block;
+    text-align: center;
+    padding-right: 30px;
 }
 
 #title-name{
     font-size: 48px;
     text-align: center;
     text-shadow: 1px 2px 4px #A4A4A4;
-    display: inline-block;
-    margin-left: 33%;
+    display: block;
+    margin-top: 5px;
 }
 
 #profile-picture{
@@ -37,7 +37,7 @@ header{
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
     display: block;
-    margin: 30px auto 30px auto;
+    margin: 30px auto 5px auto;
 }
 
 ul li {
@@ -67,7 +67,8 @@ section{
     -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58); 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
     padding: 60px;
-
+    width: 90%;
+    margin: 5px;
 }
 
 .section-header{

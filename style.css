@@ -18,6 +18,7 @@ header{
     display: block;
     text-align: center;
     padding-right: 30px;
+
 }
 
 .link-button {
@@ -49,6 +50,11 @@ header{
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.58);
     display: block;
     margin: 15px auto 0px auto;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
 }
 
 ul li {
@@ -116,9 +122,8 @@ section{
 
 .preview{
     display: inline-block;
-    width: 200px;
+    width: 310px;
     height: 300px;
-    margin: 5px 10px 10px 20px;
-    -webkit-box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.5); 
+    margin: 5px 10px 10px 20px; 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.5);
 }

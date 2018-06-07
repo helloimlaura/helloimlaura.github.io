@@ -126,3 +126,8 @@ section{
     margin: 5px 10px 10px 20px; 
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.5);
 }
+
+#euler-code{
+    display: block;
+    margin: auto;
+}

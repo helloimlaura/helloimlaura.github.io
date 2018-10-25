@@ -88,9 +88,10 @@ a:active {
     text-decoration: none;
 }
 
-#bio {
+.bio {
     text-align: center;
     margin-left: 2px;
+    display: block;
 }
 
 section{
@@ -130,9 +131,4 @@ section{
     height: 300px;
     margin: 5px 10px 10px 20px;
     box-shadow: 3px 3px 12px 0px rgba(0,0,0,0.5);
-}
-
-#euler-code{
-    display: block;
-    margin: auto;
 }
